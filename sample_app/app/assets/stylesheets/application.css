@@ -89,7 +89,7 @@ main {
 
 .list-title {
   display: block;
-  font-size: 18px;
+  font-size: 1px;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
